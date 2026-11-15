@@ -16,7 +16,7 @@ set -euo pipefail
 
 DOMAIN=""; BINARY=""; URL=""; SHA=""; EMAIL=""; PORT=""; SNI=""; ASSUME_YES=""; NO_UPGRADE=""
 # Репозиторий выпусков подставляется при сборке выпуска (.github/workflows/release.yml).
-REPO="${NODEPANEL_REPO:-richdodcom-pixel/nodepanel-releases}"
+REPO="${NODEPANEL_REPO:-richdodcom-pixel/x-fleet-releases}"
 # Метку заменяет только присваивание выше; проверяем по её части, чтобы sed при сборке не задел и эту строку.
 case "$REPO" in *_NODEPANEL_REPO_*) REPO="" ;; esac
 AGENT_PORT=8444; SUB_PORT=2096
