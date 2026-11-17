@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Установка панели nodepanel одной командой (Ubuntu/Debian, systemd, root).
+# Установка панели X-Fleet одной командой (Ubuntu/Debian, systemd, root).
 #
 #   bash install.sh [--domain sub.example.com] [--binary ./nodepanel | --url https://…/nodepanel-linux-amd64 --sha256 …]
 #                   [--yes]  (без вопросов: без --domain — имя <IP>.sslip.io)
@@ -67,7 +67,7 @@ else
 fi
 
 # --- программа
-say "Программа nodepanel ($ARCH)"
+say "Программа X-Fleet ($ARCH)"
 TMP="$(mktemp)"; trap 'rm -f "$TMP"' EXIT
 if [ -n "$BINARY" ]; then
   cp "$BINARY" "$TMP"
@@ -198,7 +198,7 @@ info "создан администратор admin"
 say "Служба nodepanel-panel"
 cat > /etc/systemd/system/nodepanel-panel.service <<UNIT
 [Unit]
-Description=nodepanel panel
+Description=X-Fleet panel
 After=network-online.target
 Wants=network-online.target
 
