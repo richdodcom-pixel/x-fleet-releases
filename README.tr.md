@@ -271,7 +271,7 @@ gelişimini istediğiniz miktarla destekleyebilirsiniz. Bu gönüllüdür: tüm 
 | Coin | Ağ | Adres |
 |---|---|---|
 | USDT | **TRON (TRC20)** | `TYWjc2oNwm32wcQUX5cDjQ2vWCCLuS1vkH` |
-| TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
+| USDT, TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
 
 > ⚠️ Coinleri yalnızca belirtilen ağdan gönderin: başka ağlardan yapılan transferler kaybolur.
 > Bu adreslerin QR kodları panelin kendisinde: menüdeki **Support** öğesi.

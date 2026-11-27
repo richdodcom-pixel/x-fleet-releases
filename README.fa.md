@@ -307,7 +307,7 @@ X-Fleet رایگان است و یک توسعه‌دهنده در وقت آزاد
 | ارز | شبکه | آدرس |
 |---|---|---|
 | USDT | **TRON (TRC20)** | `TYWjc2oNwm32wcQUX5cDjQ2vWCCLuS1vkH` |
-| TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
+| USDT, TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
 
 > ⚠️ ارزها را فقط از طریق شبکهٔ ذکرشده بفرستید؛ انتقال از شبکه‌های دیگر از دست می‌رود.
 > کدهای QR این آدرس‌ها در خود پنل هست: گزینهٔ **Support** در منو.
