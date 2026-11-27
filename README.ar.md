@@ -307,7 +307,7 @@ X-Fleet مجاني، ويطوّره مطوّر واحد في وقت فراغه. 
 | العملة | الشبكة | العنوان |
 |---|---|---|
 | USDT | **TRON (TRC20)** | `TYWjc2oNwm32wcQUX5cDjQ2vWCCLuS1vkH` |
-| USDT, TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
+| TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
 
 > ⚠️ أرسل العملات عبر الشبكة المذكورة فقط، فالتحويلات من شبكات أخرى ستضيع.
 > رموز QR لهذه العناوين موجودة في اللوحة نفسها: عنصر **Support** في القائمة.

@@ -271,7 +271,7 @@ puede apoyar su desarrollo con cualquier cantidad. Es voluntario: todas las func
 | Moneda | Red | Dirección |
 |---|---|---|
 | USDT | **TRON (TRC20)** | `TYWjc2oNwm32wcQUX5cDjQ2vWCCLuS1vkH` |
-| USDT, TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
+| TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
 
 > ⚠️ Envíe monedas solo por la red indicada: las transferencias desde otras redes se perderán.
 > Los códigos QR de estas direcciones están en el propio panel: el apartado **Support** del menú.

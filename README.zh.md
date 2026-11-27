@@ -271,7 +271,7 @@ X-Fleet 是免费的，由一名开发者利用业余时间开发。如果面板
 | 币种 | 网络 | 地址 |
 |---|---|---|
 | USDT | **TRON (TRC20)** | `TYWjc2oNwm32wcQUX5cDjQ2vWCCLuS1vkH` |
-| USDT, TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
+| TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
 
 > ⚠️ 只能通过所列网络转账——从其他网络转入的币会丢失。
 > 这些地址的二维码在面板中：菜单中的 **Support** 项。
