@@ -271,7 +271,7 @@ you can support its development with any amount. It is voluntary: every feature 
 | Coin | Network | Address |
 |---|---|---|
 | USDT | **TRON (TRC20)** | `TYWjc2oNwm32wcQUX5cDjQ2vWCCLuS1vkH` |
-| TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
+| USDT, TON | **TON** | `UQB6Fryf-lEQXMGQlOIdHu5QTk_lcOgeKL0m424k92hbiWhw` |
 
 > ⚠️ Send coins only on the stated network — transfers from other networks will be lost.
 > QR codes for these addresses are in the panel itself: the **Support** item in the menu.
